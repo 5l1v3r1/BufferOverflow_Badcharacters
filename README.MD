@@ -1,6 +1,6 @@
 # Bufferoverflow Badcharacters Finder
 
-### This script help you to analyse bad character during bufferoveflow exploit development.
+### This script helps you to analyze bad character during bufferoveflow exploit development.
 
 #### pattern.txt
 This txt file include all bad characters, but when you found any bad character during analysis, remove it from it as shown in POC.
